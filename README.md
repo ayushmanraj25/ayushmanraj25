@@ -172,7 +172,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 **Thanks for visiting!** 😊
 
-<img src="https://profile-counter.glitch.me/ayushmanraj25/count.svg" alt="Visitor Count"/>
+<img src="https://profile-counter.glitch.me/ayushmanraj25/count.svg?" alt="Visitor Count"/>
 
 </div>
 
