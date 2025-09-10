@@ -1,12 +1,10 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Ayush Manraj
 
 <div align="center">
   
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Coffee+Addict+%E2%98%95)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6F42C1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushmanraj25&color=6F42C1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -14,7 +12,7 @@
 
 ```javascript
 const developer = {
-  name: "Your Name",
+  name: "Ayush Manraj",
   role: "Full Stack Developer",
   code: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
   technologies: {
@@ -33,7 +31,6 @@ const developer = {
 
 <div align="center">
 
-<!-- Programming Languages -->
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,7 +43,6 @@ const developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -56,7 +52,6 @@ const developer = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,17 +61,8 @@ const developer = {
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -84,16 +70,14 @@ const developer = {
 
 <div align="center">
   
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushmanraj25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanraj25&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
 <div align="center">
   
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushmanraj25&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -101,12 +85,7 @@ const developer = {
 
 <div align="center">
   
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/ayushmanraj25/ayushmanraj25/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -114,7 +93,7 @@ const developer = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushmanraj25&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -122,7 +101,7 @@ const developer = {
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6F42C1&line=F9826C&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushmanraj25&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6F42C1&line=F9826C&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -130,7 +109,6 @@ const developer = {
 
 <div align="center">
 
-<!-- Current Projects/Learning -->
 ![Learning](https://img.shields.io/badge/Currently%20Learning-Machine%20Learning-brightgreen?style=for-the-badge)
 ![Working on](https://img.shields.io/badge/Working%20on-Open%20Source%20Projects-blue?style=for-the-badge)
 ![Exploring](https://img.shields.io/badge/Exploring-Web3%20Technologies-purple?style=for-the-badge)
@@ -141,21 +119,10 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-
-</div>
-
-## 💰 Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushmanraj25)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayushmanraj25)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushmanraj25.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmanraj25@gmail.com)
 
 </div>
 
@@ -163,26 +130,14 @@ const developer = {
 
 <div align="center">
 
-<!-- Random Programming Quote -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ### 🎲 Random Developer Joke
 
-<!-- Jokes Card -->
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing?username=yourspotifyusername&scan=true&theme=radical&rainbow=true)](https://open.spotify.com/user/yourspotifyusername)
-
 </div>
 
 ---
@@ -195,18 +150,12 @@ const developer = {
 
 **Thanks for visiting! 😊**
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ayushmanraj25/count.svg)
 
 </div>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=120&section=footer"/>
-
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername) with ❤️
+⭐️ From [ayushmanraj25](https://github.com/ayushmanraj25) with ❤️
