@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-```javascript
+```js
 const developer = {
   name: "Ayush Manraj",
   role: "Full Stack Developer",
@@ -155,7 +155,3 @@ const developer = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F42C1&height=120&section=footer"/>
-
----
-
-⭐️ From [ayushmanraj25](https://github.com/ayushmanraj25) with ❤️
