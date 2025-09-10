@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ayush Manraj
+# 👋 Hey there! I'm Ayushman Raj
 
 <div align="center">
   
