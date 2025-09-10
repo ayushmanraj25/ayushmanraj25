@@ -1,8 +1,6 @@
 # 👋 Hey there! I'm Ayushman Raj
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+🚀;Open+Source+Enthusiast+✨;Problem+Solver+🧩;Coffee+Addict+☕" alt="Typing SVG">
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushmanraj25&color=6F42C1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
