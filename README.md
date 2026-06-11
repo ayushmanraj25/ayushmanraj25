@@ -124,3 +124,7 @@ Interactive OS simulator with AI-driven page replacement recommendations.
 <h3 align="center">
 ⭐ Building AI Solutions For Real-World Impact ⭐
 </h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushmanraj25/ayushmanraj25/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
